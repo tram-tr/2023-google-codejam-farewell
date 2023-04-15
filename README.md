@@ -1,6 +1,6 @@
 # Google Code Jam 2023 Farewell Round
 
-Solved 4/5 problems
+Solved 4/5 problems (71/100)
 
 My solutions to the 4/5 problems:
 

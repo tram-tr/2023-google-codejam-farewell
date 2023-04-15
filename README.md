@@ -12,4 +12,4 @@ My solutions to the 4/5 problems:
 
 - Problem 4: [ASCII Art](https://codingcompetitions.withgoogle.com/codejam/round/0000000000c95b94/0000000000cad9c2) (Passed 2 Test Sets)
 
-- Prolem 5: [Untie](https://codingcompetitions.withgoogle.com/codejam/round/0000000000c95b94/0000000000cad9c1) (Passed Sample Test Cases, Failed 2 Test Sets)
+- Problem 5: [Untie](https://codingcompetitions.withgoogle.com/codejam/round/0000000000c95b94/0000000000cad9c1) (Passed Sample Test Cases, Failed 2 Test Sets)
